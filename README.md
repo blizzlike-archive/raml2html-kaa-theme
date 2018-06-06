@@ -1,9 +1,18 @@
-# raml2html Kaa theme
+# Moved to GitLab
 
-Kaa theme for raml preprocessor [raml2html](https://www.npmjs.com/package/raml2html). Based on [default theme](https://github.com/raml2html/default-theme).
+Due to the recent circumstances where GitHub has been acquired by Microsoft, 
+I have decided to leave this place. There can't be any better time to move 
+to an open-source project (at least one where most parts are) rather than 
+staying and by that supporting Microsoft to build up yet another monopoly 
+based on a closed-source software.
 
-## Install
-```npm i -g raml2html-kaa-theme```
+**This repository is now hosted on [GitLab](https://gitlab.com/blizzlike-org)**
 
-## Usage
-```raml2html --theme raml2html-kaa-theme example.raml > example.html```
+We already live in a world almost exclusively controlled by closed software.
+I hope as many people as possible will follow, in order to build up a 
+new open-source standard of git hosting. I believe that all developers 
+(especially open-source developers) should understand this point of view.
+
+I highly appreciate anyone who takes the opportunity and does the same.
+
+See you on GitLab
